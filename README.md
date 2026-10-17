@@ -53,4 +53,5 @@ A Python-based virtual assistant that retrieves information from the internet an
 
 ## Author
 
-M Sumaiya
+## M Sumaiya
+B.Tech - Computer Science & Engineering (AI & Data Science)
